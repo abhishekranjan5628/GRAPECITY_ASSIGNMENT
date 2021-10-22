@@ -1,0 +1,23 @@
+GRAPECITY_ASSIGNMENT
+// TEST CASES
+
+error must be thrown when user enters a string
+Verify that all the buttons are present and text written on them is readable
+Verify that the calculator gives the correct result in case of operations containing decimal numbers.
+Minimum value should for total bill input must be greater than zero and for tip % it should lie between zero and 100 %
+Verify the working of the all buttons in the calculator .
+Verify if the user can delete digits one by one using the backspace key in the input .
+tip % counter should increase or decrease at equal intervals .
+the dom manupulation should be consistent .
+test the dynamic property of the website
+test that font size of each input must be as per reuirement
+test that functions used in javascript are not throwing any error
+test that the UI must be easy to use and user friendly
+test that total bill and total bill % should be displayed in a separate line
+test that result should not be displayed if user inputs value for number of people less than 1
+test that all instructions are clear in the user interface
+test that website clearly loads on all devices like mobile phones , tablets , pc
+test that result must be displayed as per user's specified format
+check for any unused code and code optimisation
+check for decalration of classes and there objects are as per java script format
+identify the customers using this application and check all possible ways of progress .
